@@ -1,0 +1,30 @@
+body {
+  background-color: #EAF6F6;
+}
+  hr {
+      background-color: white;
+      border-style: none;
+      border-top-style: dotted;
+      border-color: grey;
+      border-width: 5px;
+      width: 5%;
+    }
+  h1:hover {
+      background-color: lightblue;
+      color: black;
+    }
+  h3 {
+      background-color: lightblue;
+      color: black;
+    }
+  .center {
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: red;
+    text-decoration-style: dashed;
+    margin-block-start: 0.5em;
+    margin-block-end: 0.9em;
+  }
+  .image {
+    border-radius: 50%;
+  }
